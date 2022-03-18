@@ -1,2 +1,2 @@
-# Manish
-Hello
+# Data science project
+Data science project
